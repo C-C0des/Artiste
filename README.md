@@ -1,5 +1,5 @@
 
-# Artiste [ UT Coding Boot Camp: Project #1 ]
+# Artiste 
 
 ## Functionality
 Artiste is a web based mood-board app that allows its users to express emotions. 
